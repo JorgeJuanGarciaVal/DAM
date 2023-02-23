@@ -1,6 +1,8 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
 <channel>
 <title>Porqué Podcast</title>
+  <itunes:name>SUPER PODCAST</itunes:name>
+<itunes:email>--------@gmail.com</itunes:email>
 <atom:link href="https://porquepodcast.com/feed/" rel="self" type="application/rss+xml"/>
 <link>https://porquepodcast.com/</link>
 <description>El único programa que navega cada mes hacia rumbo desconocido para regresar cada día 15 al mismo puerto, tu reproductor favorito.</description>
