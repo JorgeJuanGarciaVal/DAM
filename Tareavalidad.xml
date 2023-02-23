@@ -1,245 +1,26 @@
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
-<channel>
-<title>Porqué Podcast</title>
-<atom:link href="https://porquepodcast.com/feed/" rel="self" type="application/rss+xml"/>
-<link>https://porquepodcast.com/</link>
-<description>El único programa que navega cada mes hacia rumbo desconocido para regresar cada día 15 al mismo puerto, tu reproductor favorito.</description>
-<lastBuildDate>Wed, 23 Nov 2022 06:30:58 +0000</lastBuildDate>
-<language>es</language>
-<sy:updatePeriod> hourly </sy:updatePeriod>
-<sy:updateFrequency> 1 </sy:updateFrequency>
-<generator>https://wordpress.org/?v=6.1.1</generator>
-<image>
-<url>https://porquepodcast.com/wp-content/uploads/2016/02/cropped-500png-e1446418873192-32x32.png</url>
-<title>Porqué Podcast</title>
-<link>https://porquepodcast.com/</link>
-<width>32</width>
-<height>32</height>
-</image>
-<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-<itunes:summary>El único programa que navega cada mes hacia rumbo desconocido para regresar cada día 15 al mismo puerto, tu reproductor favorito. Si quieres participar o proponer tu propio porqué no dudes en ponerte en contacto con nosotros a través de nuestro correo, porquepodcast@gmail.com</itunes:summary>
-<itunes:author>Porqué Podcast</itunes:author>
-<itunes:explicit>yes</itunes:explicit>
-<itunes:image href="https://porquepodcast.com/wp-content/uploads/2022/10/LOGO-2022-1400X1400.png"/>
-<itunes:owner>
-<itunes:name>Porqué Podcast</itunes:name>
-<itunes:email>porquepodcast@gmail.com</itunes:email>
-</itunes:owner>
-<managingEditor>porquepodcast@gmail.com (Porqué Podcast)</managingEditor>
-<copyright>Porque Podcast</copyright>
-<itunes:subtitle>El único programa que navega cada mes hacia rumbo desconocido en busca de una temática completamente diferente, para regresar cada día 15 al mismo puerto, tu reproductor favorito.</itunes:subtitle>
-<image>
-<title>Porqué Podcast</title>
-<url>https://porquepodcast.com/wp-content/uploads/2022/10/LOGO-2022-3000X3000.png</url>
-<link>https://porquepodcast.com</link>
-</image>
-<itunes:category text="Society & Culture"/>
-<googleplay:category text="Society & Culture"/>
-<itunes:category text="Comedy"/>
-<itunes:category text="Leisure"/>
-<rawvoice:rating>TV-14</rawvoice:rating>
-<rawvoice:location>Madrid, Spain</rawvoice:location>
-<podcast:location>Madrid, Spain</podcast:location>
-<rawvoice:frequency>Monthly</rawvoice:frequency>
-<rawvoice:donate href="https://www.paypal.me/porquepodcast"/>
-<podcast:funding url="https://www.paypal.me/porquepodcast"/>
-<rawvoice:subscribe feed="https://porquepodcast.com/feed/" itunes="http://itun.es/i6Jq64y"/>
+<items>
+<title> PRODUCTOS SUPERMERCADO </title>
+<description>DE ULTIMA GENERACION</description>
+<lastBuildDate>TUESDAY, 14/2/2023</lastBuildDate>
 <item>
-<title>INICIATIVA METACINE #08: ¿Quién Engañó a Roger Rabbit? (1988)</title>
-<link>https://porquepodcast.com/2022/11/23/iniciativa-metacine-08-quien-engano-a-roger-rabbit-1988/#utm_source=rss&utm_medium=rss&utm_campaign=iniciativa-metacine-08-quien-engano-a-roger-rabbit-1988</link>
-<comments>https://porquepodcast.com/2022/11/23/iniciativa-metacine-08-quien-engano-a-roger-rabbit-1988/#respond</comments>
-<dc:creator>
-<![CDATA[ Porque Podcast ]]>
-</dc:creator>
-<pubDate>Wed, 23 Nov 2022 06:00:25 +0000</pubDate>
-<category>
-<![CDATA[ 2022 ]]>
-</category>
-<category>
-<![CDATA[ Episodios ]]>
-</category>
-<category>
-<![CDATA[ Youtube ]]>
-</category>
-<category>
-<![CDATA[ Cine ]]>
-</category>
-<category>
-<![CDATA[ iniciativametacine ]]>
-</category>
-<category>
-<![CDATA[ metacine ]]>
-</category>
-<guid isPermaLink="false">https://porquepodcast.com/?p=5515</guid>
-<description>
-<![CDATA[ <p>¡Bienvenidos a Dibullywood! Hoy nos volvemos a juntar para unirnos a la #IniciativaMetacine y repasar la película &#8216;¿Quién engañó a Roger Rabbit?&#8217; INICIATIVA METACINE #08: ¿Quién Engañó a Roger Rabbit? (1988) Para analizar esta película de 1988 contamos con Mónica de la Fuente @Patinadora, Mamen Jimenez @Lapsicomami, Enrique García @Trecebicis y Jorge Marín @Eove quienes [&#8230;]</p> <p>La entrada <a rel="nofollow" href="https://porquepodcast.com/2022/11/23/iniciativa-metacine-08-quien-engano-a-roger-rabbit-1988/">INICIATIVA METACINE #08: ¿Quién Engañó a Roger Rabbit? (1988)</a> se publicó primero en <a rel="nofollow" href="https://porquepodcast.com">Porqué Podcast</a>.</p> ]]>
-</description>
-<wfw:commentRss>https://porquepodcast.com/2022/11/23/iniciativa-metacine-08-quien-engano-a-roger-rabbit-1988/feed/</wfw:commentRss>
-<slash:comments>0</slash:comments>
-<enclosure url="https://media.blubrry.com/porquepodcast/s/https://api.spreaker.com/v2/episodes/51973655/download.mp3" length="5242880" type="audio/mpeg"/>
-<itunes:subtitle>¡Bienvenidos a Dibullywood! Hoy nos volvemos a juntar para unirnos a la #IniciativaMetacine y repasar la película ‘¿Quién engañó a Roger Rabbit?’ INICIATIVA METACINE #08: ¿Quién Engañó a Roger Rabbit? (1988) Para analizar esta película de 1988 contamo...</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ¡Bienvenidos a Dibullywood! Hoy nos volvemos a juntar para unirnos a la #IniciativaMetacine y repasar la película &#8216;¿Quién engañó a Roger Rabbit?&#8217;<br /> <a href="https://porquepodcast.com/wp-content/uploads/2022/11/8.png"></a><br /> <a href="https://media.blubrry.com/porquepodcast/s/https://api.spreaker.com/v2/episodes/51973655/download.mp3"> INICIATIVA METACINE #08: ¿Quién Engañó a Roger Rabbit? (1988)</a><br /> <br /> Para analizar esta película de 1988 contamos con Mónica de la Fuente @Patinadora, Mamen Jimenez @Lapsicomami, Enrique García @Trecebicis y Jorge Marín @Eove quienes repasan todas las escenas de la película tras un pequeño vistazo al apartado técnico.<br /> En diciembre de 1895 los hermanos Lumière harían historia inventando uno de los medios de entretenimiento más<br /> populares del mundo: el cine.<br /> Tan sólo 4 años más tarde nacería el Metacine, género cinematográfico que trata sobre el cine en todos sus ámbitos, con las cintas inglesas: The Big Swallow (James Williamson, 1899) y How It Feels to Be Run Over (Cecil Hepworth, 1900), que nos revelaban las inquietudes del séptimo arte por mostrar los primeros síntomas autorreferenciales.<br /> Casi 125 años después se sigue haciendo cine sobre lo que más nos gusta: el maravilloso mundo de las películas. Todo cabe en este género: directores, actores, producciones, impacto social, etc&#8230;<br /> Desde IniciativasPod deseamos que disfruteis de los análisis de esta selección de películas metacineras y de los difrentes especiales que os ofrecemos alrededor de la materia.<br /> Y como nos gusta decir: El cine es vida y la vida es cine.<br /> Por Qué Podccast se une a otros 31 pódcasts para homenajear todo<br /> este trabajo, todo este derroche de emociones y sentimientos que nos<br /> han regalado.<br /> De parte de La Camarilla, Osera Radio, Amando la cabina, El café de Rick, Destino Arrakis, Planeta Bob, Más que cine, Porqué Podcast, Just Live It, Doble Sesión, Abriendo melones, La muerte tenía un podcast, Familia Asimétrica, Un Memento y Volvemos, Tiempos de videoclub, Cinevoradas, Mocking Pod, Hablo de cine (por Misery Ratty), ¡A la velocidad absurda!, No me cuentes películas, Batseñales, El podcast de Magazinema, Entre pelis, Gamelx, Café con podcast, Bibliocracia, Tierra Omega, Policías Pelis, Cine Desencadenado, Pinkerton Podcast, Puro Vicio, Peskito y medio: ¡Muchas gracias por los buenos ratos que nos habéis hecho pasar!<br /> Busca el hashtag #IniciativaMetacine en redes sociales y escucha todos los pódcasts de este proyecto en la lista de reproducción de iVoox: <a href="https://www.ivoox.com/iniciativa-metacine_bk_list_10373868_1.html">Iniciativa Metacine</a><br /> Sigue a @IniciativasPod en Twitter y busca el hashtag #IniciativaMetacine en redes sociales y escucha todos los pódcasts de este proyecto en la lista de reproducción de iVoox: Iniciativa Metacine.<br /> <a href="https://www.ivoox.com/iniciativa-metacine_bk_list_10373868_1.html">https://www.ivoox.com/iniciativa-metacine_bk_list_10373868_1.html</a><br /> <br /> * Agradecimientos:<br /> <br /> * Organización:<br /> <br /> * Rita Salazar de La Camarilla<br /> * Luis Millán de Just Live It<br /> * El Manco de El podcast de Magazinema<br /> <br /> <br /> * Apartado visual y miniaturas:<br /> <br /> * Pike Waltz, @PikeWaltz en twitter<br /> <br /> <br /> * Gestión de producción de cuñas y entrevistas:<br /> <br /> * Gonzalo Cuélliga de Abriendo Melones<br /> <br /> <br /> * Edición y Montaje de las cuñas:<br /> <br /> * Fercatodic de Café con Podcast<br /> * Nat de Cine Desencadenado<br /> <br /> <br /> * Voces:<br /> <br /> * Carmen de La Camarilla<br /> * Marta Navas de Abriendo Melones<br /> * Manu de Caldearte Radio<br /> * Miguel Benito de Pinkerton Podcast<br /> * Misery Ratty de Hablo de Cine por Misery Ratty<br /> * Nat de Cine Desencadenado<br /> * Octavio Azorín de Just Live It<br /> <br /> <br /> <br /> <br /> <br /> Sintonías:<br /> ]]>
-</itunes:summary>
-<itunes:author>Porqué Podcast</itunes:author>
-<itunes:image href="https://porquepodcast.com/wp-content/uploads/2022/10/LOGO-2022-1400X1400.png"/>
+<name>Cascos</name>
+<price>10.00</price>
+<description>Este es muy bueno.</description>
 </item>
 <item>
-<title>Episodio100: Porqué seguir otros 100 capítulos</title>
-<link>https://porquepodcast.com/2022/10/30/episodio100-porque-seguir-otros-100-capitulos/#utm_source=rss&utm_medium=rss&utm_campaign=episodio100-porque-seguir-otros-100-capitulos</link>
-<comments>https://porquepodcast.com/2022/10/30/episodio100-porque-seguir-otros-100-capitulos/#respond</comments>
-<dc:creator>
-<![CDATA[ Porque Podcast ]]>
-</dc:creator>
-<pubDate>Sun, 30 Oct 2022 14:23:51 +0000</pubDate>
-<category>
-<![CDATA[ 2022 ]]>
-</category>
-<category>
-<![CDATA[ directo ]]>
-</category>
-<category>
-<![CDATA[ Youtube ]]>
-</category>
-<category>
-<![CDATA[ eove ]]>
-</category>
-<category>
-<![CDATA[ episodio100 ]]>
-</category>
-<category>
-<![CDATA[ humor ]]>
-</category>
-<category>
-<![CDATA[ jpod ]]>
-</category>
-<category>
-<![CDATA[ jpod22 ]]>
-</category>
-<category>
-<![CDATA[ labienpe ]]>
-</category>
-<category>
-<![CDATA[ patinadora ]]>
-</category>
-<category>
-<![CDATA[ wichito ]]>
-</category>
-<guid isPermaLink="false">https://porquepodcast.com/?p=5509</guid>
-<description>
-<![CDATA[ <p>¡Buenos y centenarios días! Volvemos a la carga como cada día 15 para traeros ni más ni menos que nuestro episodio 100 en las JPOD22 de Madrid ¡qué mejor que un directo para celebrar nuestros 100 capítulos! Episodio100: Porqué seguir otros 100 capítulos. Pedimos disculpas por la calidad de sonido, aunque creemos que el técnico [&#8230;]</p> <p>La entrada <a rel="nofollow" href="https://porquepodcast.com/2022/10/30/episodio100-porque-seguir-otros-100-capitulos/">Episodio100: Porqué seguir otros 100 capítulos</a> se publicó primero en <a rel="nofollow" href="https://porquepodcast.com">Porqué Podcast</a>.</p> ]]>
-</description>
-<wfw:commentRss>https://porquepodcast.com/2022/10/30/episodio100-porque-seguir-otros-100-capitulos/feed/</wfw:commentRss>
-<slash:comments>0</slash:comments>
-<enclosure url="https://media.blubrry.com/porquepodcast/s/https://api.spreaker.com/v2/episodes/51683698/download.mp3" length="5242880" type="audio/mpeg"/>
-<itunes:subtitle>¡Buenos y centenarios días! Volvemos a la carga como cada día 15 para traeros ni más ni menos que nuestro episodio 100 en las JPOD22 de Madrid ¡qué mejor que un directo para celebrar nuestros 100 capítulos!</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ¡Buenos y centenarios días! Volvemos a la carga como cada día 15 para traeros ni más ni menos que nuestro episodio 100 en las JPOD22 de Madrid ¡qué mejor que un directo para celebrar nuestros 100 capítulos!<br /> <a href="https://media.blubrry.com/porquepodcast/s/https://api.spreaker.com/v2/episodes/51683698/download.mp3">Episodio100: Porqué seguir otros 100 capítulos.</a><br /> Pedimos disculpas por la calidad de sonido, aunque creemos que el técnico de la sala lo hizo a propósito para que no se oyera la voz de Jorge <a href="https://twitter.com/Eove">@Eove</a> que parecía haber salido de lo más fondo de un cementerio. Además de la grata y habitual compañía de Mónica <a href="https://twitter.com/patinadora">@Patinadora</a>, este regreso a los micrófonos nos trajo a dos compañeros de excepción, como la hija prógida de Porqué Podcast, Blanca <a href="https://twitter.com/Labienpe">@Labienpe</a> y el queridísimo y divertido Jordi <a href="https://twitter.com/wichit0">@Wichito</a>.<br /> Te invitamos a disfrutar del episodio y a responder a las preguntas que lanzamos durante el directo.<br /> <br /> Sintonías<br /> Intro: <a class="keychainify-checked" href="http://freemusicarchive.org/music/Tri-Tachyon/Little_Lily_Swing/Tri-Tachyon_-_01_-_Little_Lily_Swing" target="_blank" rel="noopener noreferrer">Little Lily Swing by Tri-Tachyon</a><br /> <a class="keychainify-checked" href="http://freemusicarchive.org/music/Benjimanji/Benjimanji/09_The_End" target="_blank" rel="noopener noreferrer">The End by Benjimanji</a><br /> ¿Quieres saber más?<br /> Puedes suscribirte a nuestro podcast a través de <a class="keychainify-checked" href="https://porquepodcast.com/itunes">Itunes</a>, <a class="keychainify-checked" href="https://porquepodcast.com/ivoox">Ivoox</a>, <a class="keychainify-checked" href="https://porquepodcast.com/tunein">Tunein</a>, <a class="keychainify-checked" href="https://porquepodcast.com/youtube">Youtube</a> o nuestro propio <a class="keychainify-checked" href="https://porquepodcast.com/feed">feed</a>. Además puedes seguirnos a través de <a class="keychainify-checked" href="https://porquepodcast.com/twitter">Twitter</a>, <a class="keychainify-checked" href="https://porquepodcast.com/facebook">Facebook</a> o <a class="keychainify-checked" href="https://porquepodcast.com/instagram">Instagram</a>. Para mantener informado de todas nuestras noticias y novedades suscríbete hoy mismo a nuestro canal de <a class="keychainify-checked" href="https://porquepodcast.com/telegram">Telegram</a>.<br /> ¿Te ha gustado el episodio? ¿Crees que grabaremos otro igual cuando lleguemos a los 200? ¿Hasta qué punto merece la pena escribir estas preguntas al final del post? ¿Alguien lee esto? Deja un comentario si crees que sí y sobre todo… ¡vuelve a descargar nuestro podcast en el próximo episodio!<br /> &nbsp;<br /> ]]>
-</itunes:summary>
-<itunes:author>Porqué Podcast</itunes:author>
-<itunes:image href="https://porquepodcast.com/wp-content/uploads/2022/10/LOGO-2022-1400X1400.png"/>
+<name>Movil</name>
+<price>15.00</price>
+<description>Este es otro producto de alta calidad con una gran pantalla.</description>
 </item>
 <item>
-<title>INICIATIVA PIXAR #07: Buscando a Nemo (2003)</title>
-<link>https://porquepodcast.com/2022/06/10/iniciativa-pixar-07-buscando-a-nemo-2003/#utm_source=rss&utm_medium=rss&utm_campaign=iniciativa-pixar-07-buscando-a-nemo-2003</link>
-<comments>https://porquepodcast.com/2022/06/10/iniciativa-pixar-07-buscando-a-nemo-2003/#respond</comments>
-<dc:creator>
-<![CDATA[ Porque Podcast ]]>
-</dc:creator>
-<pubDate>Fri, 10 Jun 2022 09:21:09 +0000</pubDate>
-<category>
-<![CDATA[ 2022 ]]>
-</category>
-<category>
-<![CDATA[ Episodios ]]>
-</category>
-<category>
-<![CDATA[ buscando a nemo ]]>
-</category>
-<category>
-<![CDATA[ eove ]]>
-</category>
-<category>
-<![CDATA[ IniciativaPixar ]]>
-</category>
-<category>
-<![CDATA[ IniciativasPod ]]>
-</category>
-<category>
-<![CDATA[ lapsicomami ]]>
-</category>
-<category>
-<![CDATA[ patinadora ]]>
-</category>
-<category>
-<![CDATA[ pixar ]]>
-</category>
-<category>
-<![CDATA[ trecebicis ]]>
-</category>
-<guid isPermaLink="false">https://porquepodcast.com/?p=5339</guid>
-<description>
-<![CDATA[ <p>¡Buenos días pececillos de agua dulce (o salada)! Regresemos a los micrófonos para unirnos a una nueva iniciativa, esta vez dedicada a las películas de Pixar. En esta ocasión nos sumergimos de lleno en la cinta &#8216;Buscando a Nemo&#8216; y recorreremos el océano para revivir las aventuras de Marlin, Dory y Nemo ¿nos acompañas? INICIATIVA [&#8230;]</p> <p>La entrada <a rel="nofollow" href="https://porquepodcast.com/2022/06/10/iniciativa-pixar-07-buscando-a-nemo-2003/">INICIATIVA PIXAR #07: Buscando a Nemo (2003)</a> se publicó primero en <a rel="nofollow" href="https://porquepodcast.com">Porqué Podcast</a>.</p> ]]>
-</description>
-<wfw:commentRss>https://porquepodcast.com/2022/06/10/iniciativa-pixar-07-buscando-a-nemo-2003/feed/</wfw:commentRss>
-<slash:comments>0</slash:comments>
-<enclosure url="https://media.blubrry.com/porquepodcast/s/https://api.spreaker.com/v2/episodes/50152373/download.mp3" length="5242880" type="audio/mpeg"/>
-<itunes:subtitle>¡Buenos días pececillos de agua dulce (o salada)! Regresemos a los micrófonos para unirnos a una nueva iniciativa, esta vez dedicada a las películas de Pixar. En esta ocasión nos sumergimos de lleno en la cinta ‘Buscando a Nemo‘ y recorreremos el océan...</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ¡Buenos días pececillos de agua dulce (o salada)! Regresemos a los micrófonos para unirnos a una nueva iniciativa, esta vez dedicada a las películas de Pixar. En esta ocasión nos sumergimos de lleno en la cinta &#8216;Buscando a Nemo&#8216; y recorreremos el océano para revivir las aventuras de Marlin, Dory y Nemo ¿nos acompañas?<br /> <a href="https://porquepodcast.com/wp-content/uploads/2022/06/iniciativa-pixar-08-scaled.jpg"></a><br /> <a href="https://media.blubrry.com/porquepodcast/s/https://api.spreaker.com/v2/episodes/50152373/download.mp3">INICIATIVA PIXAR #07: Buscando a Nemo (2003)</a><br /> <br /> En 1995 Pixar realiza el primer largometraje animado enteramente por ordenador. Culmina con esta proeza muchos años de trabajo, desarrollo y sobre todo pasión. Durante estos 27 años y 25 películas han seguido siendo un referente tecnológico en el mundo de la animación por ordenador y han continuado mostrando cómo la animación no entiende de edad y nos puede conmover tal y como lo hace la realidad de carne y hueso.<br /> Porqué Podcast se une a otros 25 podcasts para homenajear todo este trabajo, todo este derroche de emociones y sentimientos que nos han regalado. Y lo hacemos coincidir con el estreno de su última obra, Lightyear.<br /> De parte de El Podcast que Faltaba, Osera Radio, Cinevoradas, La Muerte Tenia un Podcast, Porqué Podcast, Café con Podcast, +Que Cine, La Taberna del Irlandés, MagaZinema, A la Velocidad Absurda, Amando la Cabina, Familia Asimétrica, Bibliocracia, La Camarilla, Abriendo Melones, Un Memento y Volvemos, Just Live it, Cine Desencadenado, Tierra Omega, No me Cuentes Películas, Mocking Pod, Hablo de Cine, Batseñales, El Recuento Musical, el Secreto del Pentagrama y Peskito y Medio, : ¡MUCHAS GRACIAS, por los buenos ratos que nos habéis hecho pasar.!<br /> Gracias a todos los que han participado en este proyecto, y especialmente a Carmen, Manu, Gorka, Doc Further, Margot Martin, Nat y Misery Ratty por prestar sus voces, y a las fantasticas imágenes realizadas para Pike Waltz<br /> Busca el hashtag #IniciativaPixar en redes sociales y escucha todos los podcasts de este proyecto en la lista de reproducción de Ivoox:<br /> <a href="https://www.ivoox.com/iniciativa-pixar_bk_list_10168736_1.html">https://www.ivoox.com/iniciativa-pixar_bk_list_10168736_1.html</a><br /> Sintonías<br /> Intro: <a href="http://freemusicarchive.org/music/Tri-Tachyon/Little_Lily_Swing/Tri-Tachyon_-_01_-_Little_Lily_Swing" target="_blank" rel="noopener noreferrer">Little Lily Swing by Tri-Tachyon</a><br /> <a href="http://freemusicarchive.org/music/Benjimanji/Benjimanji/09_The_End" target="_blank" rel="noopener noreferrer">The End by Benjimanji</a><br /> ¿Quieres saber más?<br /> Puedes suscribirte a nuestro podcast a través de <a href="https://porquepodcast.com/itunes">Itunes</a>, <a href="https://porquepodcast.com/ivoox">Ivoox</a>, <a href="https://porquepodcast.com/tunein">Tunein</a>, <a href="https://porquepodcast.com/youtube">Youtube</a> o nuestro propio <a href="https://porquepodcast.com/feed">feed</a>. Además puedes seguirnos a través de <a href="https://porquepodcast.com/twitter">Twitter</a>, <a href="https://porquepodcast.com/facebook">Facebook</a> o <a href="https://porquepodcast.com/instagram">Instagram</a>. Para mantener informado de todas nuestras noticias y novedades suscríbete hoy mismo a nuestro canal de <a href="https://porquepodcast.com/telegram">Telegram</a>.<br /> ¿Te ha gustado el episodio? ¿Crees que grabaremos otro igual en enero del 2023? ¿Hasta qué punto merece la pena escribir estas preguntas al final del post? ¿Alguien lee esto? Deja un comentario si crees que si y sobre todo… ¡vuelve a descargar nuestro podcast en el próximo episodio!<br /> ]]>
-</itunes:summary>
-<itunes:author>Porqué Podcast</itunes:author>
-<itunes:image href="https://porquepodcast.com/wp-content/uploads/2022/10/LOGO-2022-1400X1400.png"/>
+<name>Ordenador</name>
+<price>20.00</price>
+<description>Este producto es tecnológico</description>
+<p> Cómpralo, no te arrepentirás</p>
 </item>
 <item>
-<title>Episodio99: Porqué (o quién) recordaremos el 2021</title>
-<link>https://porquepodcast.com/2022/01/31/episodio99-porque-o-quien-recordaremos-el-2021/#utm_source=rss&utm_medium=rss&utm_campaign=episodio99-porque-o-quien-recordaremos-el-2021</link>
-<comments>https://porquepodcast.com/2022/01/31/episodio99-porque-o-quien-recordaremos-el-2021/#comments</comments>
-<dc:creator>
-<![CDATA[ Porque Podcast ]]>
-</dc:creator>
-<pubDate>Mon, 31 Jan 2022 21:53:14 +0000</pubDate>
-<category>
-<![CDATA[ 2022 ]]>
-</category>
-<category>
-<![CDATA[ Episodios ]]>
-</category>
-<category>
-<![CDATA[ 2021 ]]>
-</category>
-<category>
-<![CDATA[ eove ]]>
-</category>
-<category>
-<![CDATA[ lapsicomami ]]>
-</category>
-<category>
-<![CDATA[ memes ]]>
-</category>
-<category>
-<![CDATA[ patinadora ]]>
-</category>
-<category>
-<![CDATA[ repaso ]]>
-</category>
-<category>
-<![CDATA[ trecebicis ]]>
-</category>
-<guid isPermaLink="false">https://porquepodcast.com/?p=5333</guid>
-<description>
-<![CDATA[ <p>Seguro que recordaremos el 2021 por muchas cosas y sobre todo, por muchas personas. Situaciones que nos han marcado a lo largo del año y que seguramente ellas recordarán para toda su vida. Episodio99: Porqué (o quién) recordaremos el 2021 En esta primera entrega del año nos hemos reunido Mamen, Kike, Mónica y Jorge para [&#8230;]</p> <p>La entrada <a rel="nofollow" href="https://porquepodcast.com/2022/01/31/episodio99-porque-o-quien-recordaremos-el-2021/">Episodio99: Porqué (o quién) recordaremos el 2021</a> se publicó primero en <a rel="nofollow" href="https://porquepodcast.com">Porqué Podcast</a>.</p> ]]>
-</description>
-<wfw:commentRss>https://porquepodcast.com/2022/01/31/episodio99-porque-o-quien-recordaremos-el-2021/feed/</wfw:commentRss>
-<slash:comments>2</slash:comments>
-<enclosure url="https://media.blubrry.com/porquepodcast/s/https://api.spreaker.com/v2/episodes/48514685/download.mp3" length="5242880" type="audio/mpeg"/>
-<itunes:subtitle>Seguro que recordaremos el 2021 por muchas cosas y sobre todo, por muchas personas. Situaciones que nos han marcado a lo largo del año y que seguramente ellas recordarán para toda su vida. Episodio99: Porqué (o quién) recordaremos el 2021 En esta prime...</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ Seguro que recordaremos el 2021 por muchas cosas y sobre todo, por muchas personas. Situaciones que nos han marcado a lo largo del año y que seguramente ellas recordarán para toda su vida.<br /> <a href="https://media.blubrry.com/porquepodcast/s/https://api.spreaker.com/v2/episodes/48514685/download.mp3">Episodio99: Porqué (o quién) recordaremos el 2021</a> <br /> En esta primera entrega del año nos hemos reunido Mamen, Kike, Mónica y Jorge para repasar un año con nevadas históricas, buques que han ocasionado bloqueos a nivel mundial, erupciones volcánicas y por si eso fuera poco, una pandemia que sigue alargándose gracias a la variante oritron.<br /> <br /> Sintonías<br /> Intro: <a href="http://freemusicarchive.org/music/Tri-Tachyon/Little_Lily_Swing/Tri-Tachyon_-_01_-_Little_Lily_Swing" target="_blank" rel="noopener noreferrer">Little Lily Swing by Tri-Tachyon</a><br /> <a href="http://freemusicarchive.org/music/Benjimanji/Benjimanji/09_The_End" target="_blank" rel="noopener noreferrer">The End by Benjimanji</a><br /> <br /> Este domingo grabamos y queremos hacer un repaso al 2021 y a sus personajes o PERSONAJAZOS<br /> ¿Qué persona o personaje te gustaría destacar del pasado año? ¿Quién crees que pasará a la historia como meme andante del 2021?<br /> Esperamos vuestros comentarios ? <a href="https://t.co/2Pl0GNueAl">pic.twitter.com/2Pl0GNueAl</a><br /> — PorquePodcast (@PorquePodcast) <a href="https://twitter.com/PorquePodcast/status/1483919671241891842?ref_src=twsrc%5Etfw">January 19, 2022</a><br /> <br /> ¿Quieres saber más?<br /> Puedes suscribirte a nuestro podcast a través de <a href="https://porquepodcast.com/itunes">Itunes</a>, <a href="https://porquepodcast.com/ivoox">Ivoox</a>, <a href="https://porquepodcast.com/tunein">Tunein</a>, <a href="https://porquepodcast.com/youtube">Youtube</a> o nuestro propio <a href="https://porquepodcast.com/feed">feed</a>. Además puedes seguirnos a través de <a href="https://porquepodcast.com/twitter">Twitter</a>, <a href="https://porquepodcast.com/facebook">Facebook</a> o <a href="https://porquepodcast.com/instagram">Instagram</a>. Para mantener informado de todas nuestras noticias y novedades suscríbete hoy mismo a nuestro canal de <a href="https://porquepodcast.com/telegram">Telegram</a>.<br /> ¿Te ha gustado el episodio? ¿Crees que grabaremos otro igual en enero del 2023? ¿Hasta qué punto merece la pena escribir estas preguntas al final del post? ¿Alguien lee esto? Deja un comentario si crees que si y sobre todo… ¡vuelve a descargar nuestro podcast en el próximo episodio!<br /> &nbsp;<br /> ]]>
-</itunes:summary>
-<itunes:author>Porqué Podcast</itunes:author>
-<itunes:image href="https://porquepodcast.com/wp-content/uploads/2022/10/LOGO-2022-1400X1400.png"/>
-<itunes:explicit>yes</itunes:explicit>
+<name>TV</name>
+<price>25.00</price>
+<description>Este producto es perfecto para gente que no le guste salir de casa.</description>
 </item>
-</channel>
-</rss>
+</items>
