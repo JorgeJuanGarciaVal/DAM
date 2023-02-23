@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
 <title> PRODUCTOS SUPERMERCADO </title>
-<itunes:author> JORGE JUAN  </itunes:author> 
+<itunes:author> JORGE JUAN GARCÍA VALVERDE </itunes:author> 
+<author> YO </author>  
+  <channel> ANTENA 3 </channel>
 <itunes:summary> PRODUCTOS TECNOLÓGICOS </itunes:summary>  
 <description>DE ULTIMA GENERACION</description>
 <lastBuildDate>TUESDAY, 14/2/2023</lastBuildDate>
