@@ -16,8 +16,7 @@
 <price>15.00</price>
 <description>Este es otro producto de alta calidad con una gran pantalla.</description>
 </item>
-<item>
-<itunes:summary> PC </itunes:summary>  
+<item>  
 <name>Ordenador</name>
 <price>20.00</price>
 <description>Este producto es tecnológico</description>
