@@ -2,10 +2,11 @@
 <items>
 <title> PRODUCTOS SUPERMERCADO </title>
 <itunes:author> JORGE JUAN  </itunes:author> 
-<itunes:summary> GATITOS Y PODRUCTOS DEL MERCADONA </itunes:summary>  
+<itunes:summary> PRODUCTOS TECNOLÓGICOS </itunes:summary>  
 <description>DE ULTIMA GENERACION</description>
 <lastBuildDate>TUESDAY, 14/2/2023</lastBuildDate>
 <item>
+<itunes:category text="HARDWARE" />  
 <name>Cascos</name>
 <price>10.00</price>
 <description>Este es muy bueno.</description>
